@@ -1,0 +1,154 @@
+Our Programs
+Student Products
+Why AI Camp
+Login
+Questions? Call us at (650) 436-4477
+AI Camp
+Privacy Notice
+Last Updated: [ 1/11/22 ]
+Thank you for coming to AI Camp! This Privacy Notice explains how AI Camp, Inc. (“AI Camp”, “we”, “us”, or “our”) collects, uses, discloses, and otherwise processes personal information in connection with our Services. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at hello@ai-camp.org.
+This Privacy Notice applies to all personal information collected through our website and our products and services (collectively, the "Services"), including the AI programs we run for camp participants.
+Our Collection of Personal Information
+From the first moment you interact with us, we are collecting personal information about you. Sometimes we collect personal information automatically when you interact with our Services and sometimes we collect the personal information directly from you. At times, we may collect personal information about you from other sources and third parties, even before our first direct interaction.
+Personal Information You Provide 
+We may collect the following personal information you provide in connection with our Services:
+Contact Information: When you communicate with us, register for one of our courses, apply for one of our scholarships, or purchase one of our Services, we may collect your contact information, including your full name, age, and email address, your parent/guardian’s name and email address, your mailing address, and your telephone number.
+Course Registration and Scholarship Details: When you register for one of our courses or apply for one of our scholarships, we may collect information from you such as your date of birth, the name of your school, programming experience, family income information, the type of AI program you are interested in. We also collect your Contact Information. 
+Payment Information: When you register for one of our courses or purchase other Services from us, we may collect your payment information, including your Contact Information, billing address, shipping address, payment card number, expiration date, CVC, email address, and phone number.
+Transaction Information: Including transaction description, order number, date, time and location of purchase/transaction, products and services purchased, sale amount, and discount amount.
+Customer Service and Communication History: When you contact us through any method of communications, including through our Services or via email, we collect certain information including your name, address, email, proof of purchase, and the contents of your requests and your correspondence with us.  
+Communication Preferences: Including your preferences for the ways in which we contact you (e.g., physical mail, email, text messages) and the frequency at which we reach out. 
+Newsletters and Email Communication: Our Services provide you an opportunity to sign up for our newsletters and email communications by providing your email address.  We use your email address to communicate with you about our Services and exciting developments at AI Camp, which may include marketing communications.  Please see the Your Communication Preferences section below for additional information about opting out of our marketing communications.
+Feedback Information: Including feedback and ratings you provide relating to our Services.
+Please note that our systems may record personal information that you type into our Services even if you do not choose to submit it.  
+Although we often collect the personal information described above directly from you, we also collect this information through service providers and other third parties that collect it on our behalf, such as communications providers, analytics providers, survey, contest and promotion entry providers and marketing providers. 
+  Personal Information Automatically Collected 
+As is true of most digital platforms, we and our third-party providers and partners collect certain personal information automatically when you visit or interact with our Services. This information can include: 
+Log Data: Including your internet protocol (IP) address, operating system, browser type, browser ID, the URL you entered and the referring page/campaign, date/time of your visit, the time you spent on our Services and any errors that may occur during your visit to our Services.
+Analytics Data: Including the electronic path you take to our Services, through our Services and when exiting our Services, as well as your usage and activity on our Services, such as the links, objects, products and benefits you view, click or otherwise interact with (also known as “Clickstream Data”).  
+Location Data: Including your general geographic location based on the Log Data we collect, or more precise location when permitted by law. 
+Application Data: Some of our Services offer mobile or browser applications to allow you to take advantage of our Service offerings on the go and/or when visiting third-party websites and other online services.  Certain of these applications also allow us to access more precise Location Data about you and collect information about your use and interactions with third-party websites and online services (including the products or services you are interested in or purchase) to better serve you.
+For information about our, and our third-party providers and partners’, use of cookies and related technologies to collect information automatically on our Services, and the choices you may have in relation to those practices, please visit our Cookie Notice. 
+Personal Information from Other Sources and Third Parties
+Although we often collect the personal information described above directly from you, we also collect this information through service providers and other third parties that collect it on our behalf, as noted below. 
+Social Media: If you choose to interact with us on social media, we may collect personal information about you from your social media account that you make public.  We use personal information collected in connection with your social media account to communicate with you, better understand your interests and preferences, and better understand our customer base in the aggregate. 
+Service Providers: Our service providers, such as payment processors and marketing providers, collect personal information and often share some or all of this information with us.  For example, we receive personal information from payment processors to confirm that your payment for the services was accepted. 
+Information Providers: We may from time to time obtain information from third-party information providers to correct or supplement personal information we collect.  For example, we may obtain updated contact information from third-party information providers to reconnect with you. 
+Inquiry Information: If you choose to contact us, we will collect personal information in connection with your inquiry and correspondence with us.  We may need additional information to fulfill your request or respond to your inquiry.  We may provide additional privacy disclosures where the scope of the inquiry/request and/or personal information we require fall outside the scope of this Privacy Notice.  In that case, the additional privacy disclosures will govern how we may process the information you provide at that time. 
+Publicly Available Information: We may collect personal information from publicly available sources to supplement the personal information identified above.
+Our Use of Personal Information
+We use the personal information we collect through our Services to:
+Provide our Services, including to administer courses, award scholarships, and process payments; 
+Showcase students’ projects on our website and on other digital platforms;
+Administer and improve our Services, including to test different configurations of our Service, and to diagnose errors and problems with our Services; 
+Remember you and the choices you have made in relation to our Services;
+Provide you with news about products and services we or our preferred partners offer and deliver marketing communications and advertisements based on your interests and interactions with us.
+Incorporate ideas from your responses into our business operations and customer service models;
+Respond to your comments and questions and provide customer service.  
+Communicate with you regarding our Services, offerings, and products (including by sending you Service-related emails); 
+Facilitate our day-to-day business operations, such as maintaining accounts and processing transactions; 
+Develop new products and services, and improve existing products and services;
+Aggregate information we receive from you and third parties to help understand your needs, customize our Services and offerings to you, and provide you better service; 
+Conduct research and analytics designed to understand our customer base and improve our products, Services and customer experience; 
+Prevent, investigate or provide notice of fraud or unlawful or criminal activity; 
+Enforce and carry out contracts and agreements; and 
+Comply with legal obligations. 
+Please note that we link the personal information we collect in connection with your retail and entertainment services with the other personal information that we collect about you and may use it for the purposes we describe in more detail in the other sections of this Privacy Notice. 
+Our Disclosure of Personal Information
+We disclose personal information in the following ways:  
+Within AI Camp: We are able to offer you the products and services we make available because of the hard work of the entire AI Camp team.  As we grow our business over time, legal entities within the AI Camp corporate structure may disclose personal information to other AI Camp entities for purposes and uses that are consistent with this Privacy Notice and applicable law.  
+Data Analytics Providers: We share personal information with data analytics providers who analyze statistics and trends relating to the usage of and activity relating to our Services.  These data analytics providers produce reports and make suggestions for our customer and business strategy based on the personal information and other information analyzed.  
+Payment Processors and Online Payment Systems: We share personal information with payment processors, online payment system providers and other billing agents to process your payment for the services and products you order, as well as to provide refunds, cash back and/or rebate checks. 
+Marketing Partners: We coordinate and share personal information with our marketing partners, including advertisement networks, social networks, re-targeting partners and marketing communication providers, in order to communicate with you about our products and Services and market our products and Services to you.  We may also share aggregated demographic information with third parties interested in advertising on our Services to assist them in understanding the audience they would be reaching, but this information is not designed to be identifiable to a specific individual.
+Customer Service and Communication Providers: We share personal information with third parties who assist us in providing our customer service experience and facilitating our communications with you, including third parties that provide call center, email and chat support services. 
+Other Service Providers: In addition to the third parties identified above, we engage other third parties to perform certain functions on our behalf in connection with the uses of personal information described in the Our Collection of Personal Information and Our Use of Personal Information section above, including communication printing, website hosting, information technology support, content development and fraud monitoring.  Depending on the function the third party serves, the service provider may process personal information on our behalf or have access to personal information while performing functions on our behalf. 
+Public Disclosure: With your consent, we may disclose certain personal information about you, such as first name/initial, last name and city of residence, publicly as an example of representative savings and/or to identify you as a user of our Services. 
+Business Transaction or Reorganization: We may take part in or be involved with a corporate business transaction, such as a merger, acquisition, joint venture, or financing or sale of company assets.  We may disclose personal information to a third party during negotiation of, in connection with or as an asset in such a corporate business transaction.  Personal information may also be disclosed in the event of insolvency, bankruptcy, or receivership.
+Legal Obligations and Rights: We may disclose personal information to third parties, such as legal advisors and law enforcement:  
+In connection with the establishment, exercise, or defense of legal claims; 
+To comply with laws and regulations or to respond to lawful requests and legal process; 
+To protect our rights and property and the rights and property of our agents, customers, and others, including to enforce our agreements, policies, and terms of use;
+To detect, suppress, or prevent fraud; 
+To reduce credit risk and collect debts owed to us; 
+To protect the health and safety of us, our customers, or any person; or 
+As otherwise required by applicable law.
+Consent: We may disclose personal information about you to certain other third parties with your consent.
+  Your Communication Preferences
+In connection with our Services, we may send you email messages, direct mail offers, SMS messages, push notifications or other communications, including telephone calls, regarding our Services.  You may ask us not to send you marketing communications or request a change to the method or frequency of communication by:  
+Following any available opt-out or communication preferences instructions in the marketing communications; 
+When available, accessing the “Unsubscribe” or “Communication Preferences” settings in your account profile page;
+Sending a request to hello@ai-camp.org with the words “Opt Out” or “Communication Preferences” in the subject line, the address or number at which we contacted you and your request; or
+Sending a request to the following address identifying the address or number at which we contacted you and your request:
+AI Camp 
+Attn: Privacy Compliance Officer
+2627 Hanover Street, Palo Alto, CA 94304
+  Please allow time for your request to be processed.  If you request to opt out of marketing communications, please note that we may continue to send you non-marketing communications, such as those directly related to the fulfillment of a specific transaction you requested, maintenance of your account or status of our ongoing business relations.
+  Children’s Personal Information
+Our Services are not directed to, and we do not intend to, or knowingly, collect or solicit personal information from children under the age of 13 unless we have received consent from the children’s guardian in compliance with applicable law. If you are under the age of 13, please ask your parent or guardian to contact us to provide this consent, and do not use our Services or otherwise provide us with any personal information either directly or by other means until your parent or guardian has given this consent.  
+If you are the parent or guardian of a child under the age of 13 and believe your child has provided personal information to us without your consent, please contact us to request that we remove the personal information from our systems.  If we learn that any personal information we collect has been provided by a child under the age of 13, we will promptly delete that personal information.
+Your California Privacy Rights
+California's "Shine the Light" law (Civil Code Section §1798.83) permits California residents that have an established business relationship with us to request certain information regarding our disclosure of certain types of personal information to third parties for their direct marketing purposes during the immediately preceding calendar year.  To make such a request, please contact us.
+Your Nevada Privacy Rights
+Chapter 603A of the Nevada Revised Statutes permits a Nevada resident to opt out of future sales of certain covered information that a website operator has collected or will collect about the resident. To submit such a request, please contact us.
+Third-Party Websites
+Our Services may include links to or redirect you to third-party websites, plug-ins and applications, including social media services where you may connect with us.  Third-party websites may also reference or link to our Services.  Except where we post, link to or expressly adopt or refer to this Privacy Notice, this Privacy Notice does not apply to, and we are not responsible for, any personal information practices of third-party websites and online services or the practices of other third parties.  To learn about the personal information practices of third parties, please visit their respective privacy notices or policies. 
+Updates to This Privacy Notice
+We will update this Privacy Notice from time to time.  When we make changes to this Privacy Notice, we will change the “Last Updated” date at the beginning of this Privacy Notice.  If we make material changes to this Privacy Notice, we will notify you by prominent posting at the beginning of this Privacy Notice.
+Contact Us
+If you have any questions or requests in connection with this Privacy Notice or other privacy-related matters, please send an email to hello@ai-camp.org.
+Alternatively, inquiries may be addressed to:
+AI Camp 
+Attn: Privacy Compliance Officer
+2627 Hanover Street, Palo Alto, CA 94304
++++++++++++++++++++++++
+  AI CAMP COOKIE NOTICE
+Last Updated: [1/11/2022]
+  Unless otherwise expressly stated, capitalized terms in this Notice have the same meaning as defined in the Privacy Notice.  
+Scope of Notice
+This Cookie Notice supplements the information contained in the Privacy Notice by explaining how we and our business partners and services providers use cookies and related technologies in the course of managing and providing our Services and our communications to you. It explains what these technologies are and why we use them, as well as your rights to control our use of them. 
+In some cases, we may use cookies and related technologies described in this Cookie Notice to collect personal information, or to collect information that becomes personal information if we combine it with other information. For more details about how we process your personal information, please review the Privacy Notice.
+  What Are Cookies and Related Technologies
+Cookies are small data files that are stored on your computer that allow us and our third-party partners and providers to collect certain information about your interactions with our email communications and Services.  We and our third-party partners and providers may also use other, related technologies to collect this information, such as web beacons, pixels, embedded scripts, location-identifying technologies and logging technologies (collectively, “cookies”).
+What We Collect When Using Cookies
+We and our third-party providers and partners may use cookies to automatically collect certain types of usage information when you visit or interact with our email communications and other Services, including the personal information identified in the Personal Information Automatically Collected section of our Privacy Notice.  For example, we may collect log data about your device and its software, such as your IP address, operating system, browser type, date/time of your visit, and other similar information.  We may also collect analytics data or use third-party analytics tools such as Google Analytics to help us measure usage and activity trends for our Services and better understand our customer/member base.
+Our third-party providers and partners may also directly collect personal information about your online activities over time and across different websites when you use our Services.
+How We Use That Information
+We may use the data collected through cookies to:  (a) remember information so that you will not have to re-enter it during your visit or the next time you visit our Services; (b) provide and monitor the effectiveness of our Services; (c) monitor online usage and activities of our Services; (d) diagnose errors and problems with our Services; (e) otherwise plan for and enhance our Services; and (f) facilitate the other purposes identified in the Personal Information Automatically Collected section of our Privacy Notice.  We and our advertising partners also use the information we collect through cookies to understand your browsing activities, including across unaffiliated third-party sites, so that we can deliver information and advertisements about our Services that may be of interest to you. 
+Please note that we link some of the personal information we collect through cookies with the other personal information that we collect about you and for the purposes described in the Our Collection of Personal Information and Our Use of Personal Information sections of our Privacy Notice.
+Your Choices About Cookies
+If you would prefer not to accept cookies, most browsers will allow you to: (i) change your browser settings to notify you when you receive a cookie, which lets you choose whether or not to accept it; (ii) disable existing cookies; or (iii) set your browser to automatically reject cookies.  Please note that doing so may negatively impact your experience using our Services, as some features and offerings may not work properly.  Depending on your device and operating system, you may not be able to delete or block all cookies.  In addition, if you want to reject cookies across all your browsers and devices, you will need to do so on each browser on each device you actively use.  You may also set your email options to prevent the automatic downloading of images that may contain technologies that would allow us to know whether you have accessed our email and performed certain functions with it. 
+Many of our websites use Google Analytics, a web analytics service provided by Google, Inc. (“Google”). For more information on the use of Google Analytics, please visit Google’s privacy policy here.  You can also view Google’s currently available opt-out options here.
+Your Choices About Online Ads
+To learn more about interest-based advertising and how you may be able to opt-out of some of this advertising, you may wish to visit the Digital Advertising Alliance’s (DAA) resources and/or the Network Advertising Initiative’s (NAI) online resources, at www.aboutads.info/choices or http://www.networkadvertising.org/choices/ and you can opt-out of receiving some interest-based advertisements on mobile apps by visiting http://www.aboutads.info/appchoices. You may also be able to limit interest-based advertising through the settings menu on your mobile device by selecting “limit ad tracking” (iOS) or “opt-out of interest-based ads” (Android).  You may also be able to opt-out of some — but not all — interest-based advertising served by mobile ad networks by visiting http://youradchoices.com/appchoices and downloading the mobile AppChoices app.
+Please note that when you opt out of receiving interest-based advertisements, this does not mean you will no longer see advertisements from us or on our Services.  It means that the online ads that you do see from DAA program participants should not be based on your interests.  We are not responsible for the effectiveness of, or compliance with, any third-parties’ opt-out options or programs or the accuracy of their statements regarding their programs. In addition, third parties may still use cookies to collect information about your use of our Services, including for analytics and fraud prevention as well as any other purpose permitted under the DAA’s Principles.
+  Updates to This Cookie Notice
+We will update this Cookie Notice from time to time.  When we make changes to this Cookie Notice, we will change the “Last Updated” at the beginning of this Cookie Notice.  
+Contact Us
+If you have any questions or requests in connection with this Cookie Notice or other privacy-related matters, please send an email to hello@ai-camp.org. 
+Alternatively, inquiries may be addressed to:
+AI Camp 
+Attn: Privacy Compliance Officer
+2627 Hanover Street, Palo Alto, CA 94304
+
+
+
+  +++++++++++++++++++++++
+Learn More
+Our Mission
+Our Blog
+Student Products
+Contact Us
+Email: hello@ai-camp.org
+Phone: (650) 436-4477
+
+2627 Hanover Street,
+Palo Alto, CA 94304
+Terms of Service
+Privacy
+Reviews
+Keep Up With Us!
+AI Camp Help Center
+Back to Top
+Created with love in California. 
+© 2022 by AI Camp.  
+Careers
