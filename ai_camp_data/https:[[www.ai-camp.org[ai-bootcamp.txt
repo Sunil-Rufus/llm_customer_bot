@@ -1,0 +1,200 @@
+Our Programs
+Student Products
+Why AI Camp
+Login
+Questions? Call us at (650) 436-4477
+100% Online
+AI Bootcamp
+A learning experience of a lifetime for students 13+ 
+Zero Coding Experience Required
+Immersive Small-Group Learning Environment
+An AI Product Built by You and Your Team
+AI Bootcamp Certificate of Completion
+Priority Acceptance into our Guided Internship Program 
+Register Now
+Build an Impressive AI Product
+A valuable addition to your resume + college application portfolio
+#comp-lmu4janx svg [data-color="1"] {fill: #20BD68;}
+In this AI Camp Program, you will: 
+Choose a curriculum track that aligns with your interests:
+Computer Vision
+Natural Language Processing (NLP)
+Data Science
+Learn cutting-edge AI skills and apply them immediately to build a real-world AI product
+Be part of a top AI community, building connections with mentors, advisors, and peers.
+Gain job-ready, in-demand tech skills
+Product Lifecycle Expertise: From planning to evaluation, master the art of product development.
+Model Training Acumen: Gain hands-on experience in training cutting-edge models.
+Web Development & Design: Dive deep into website design and seamless web development.
+#comp-lmu4igre svg [data-color="1"] {fill: #20BD68;}
+Expert Guidance
+We source the best mentors and instructors from top universities and companies
+Tsachy Weissman,
+Professor at
+Stanford University
+Dr. Ying Jiang,
+Stanford Ph.D & Senior Data Scientist at Ericsson
+Dr. Justin White,
+Stanford Ph.D &
+Co-Founder and CTO at Notable Health
+AI Bootcamp Impact
+1,700+
+Students graduated from 2022/23 Summer Cohorts
+Unique AI products built by AI Bootcamp students
+310+
+AI Bootcamp Student Satisfaction Rating
+9.3/10
+Guided Internship Students are AI Bootcamp Alumni
+96%
+Student Product Spotlight:
+AI Recognizes Emotion
+We used Computer Vision to create a web app detection model that can identify emotions - like happy, neutral, angry, and surprised - in real-time!
+Try This Product
+Explore More Products
+Tuition & Cohort Options
+AI Bootcamp: Summer Camp 2024 (Full-Time)
+Our flagship program, where in just 3 weeks, you'll be equipped to both understand AI and bring an AI product to life.
+Upcoming 2024 Dates
+Cohort A
+June 10 - June 28
+3 Weeks, M-F
+OPEN
+Cohort B
+July 1 - July 19
+3 Weeks, M-F
+OPEN
+Cohort C
+July 22 - Aug 9
+3 Weeks, M-F
+OPEN
+Cohort D
+Aug 12 - Aug 30
+3 Weeks, M-F
+OPEN
+AI Bootcamp Summer 2024 Payment Options
+Tuition
+$2,349
+Limited-Time
+Early Bird Special - Deposit Now, Pay Later
+Secure your spot today with a $250 deposit and lock-in our Early Bird Special rate of $1,552 (33% OFF)
+$250
+Register Now
+(Deposit)
+Fully refundable. Deposit will be deducted from the total at the time of payment in Feb 2024. 
+AI Bootcamp: The School Year (Part-Time)
+We’ve revamped our flagship summer program to fit the school year calendar, providing an extended and comprehensive 10-week journey into AI!
+Upcoming School Year Dates
+Cohort A
+Start: Dec 2, 2023
+10 Weeks, Sat
+OPEN
+Cohort B
+Start: Jan 6, 2024
+10 Weeks, Sat
+OPEN
+Cohort C
+Start: Feb 3, 2024
+10 Weeks, Sat
+OPEN
+Cohort D
+Start: Mar 2, 2024
+10 Weeks, Sat
+OPEN
+AI Bootcamp School Year Payment Options
+Tuition
+$1,552
+Most Flexible
+Month-to-Month
+Split up payments over a set period
+$388/mo
+$1,552
+Register Now
+(Based upon 4 months)
+ AI Bootcamp Curriculum
+Choose from Three Educational Tracks
+Computer Vision 
+Jump into the world of computer vision by learning to code and harnessing the power of cutting-edge facial
+recognition models.
+Computer Vision Tools:
+  ViT(Vision Transformer)
+Roboflow
+Yolo
+Natural Language Processing
+Uncover the intricacies of Natural Language Processing (NLP) as you explore text generation, machine learning, and various Python tools.
+NLP Tools:
+  NLTK (Python Library)
+PyTorch (Python Library)
+GPT-Neo
+Data Science
+Build robust neural networks, classification models, and regression models to make sense of complex data and derive actionable insights.
+Data Science Tools: 
+  Sklearn (Python Library)
+Pandas (Python Library)
+  With All Three Tracks, You Can Expect
+Hands-on Use of Our General Tech Stack
+Familiarize yourself with the core set of technologies we use throughout the program
+Mentor Guided Learning
+Receive personalized guidance to help you build these in-demand skills faster 
+Career Decisions Backed by Data
+Learn how apply a data-driven approach to important career decisions
+AI Camp Learning Center Access
+Access AI Camp's collection of AI resources, materials, and online activities 
+An Elite AI Community
+Surround yourself with AI experts passionate about education!
+An Exhilarating Journey
+From conceptualizing to celebrating your own AI product, we'll support you every step of the way
+1
+Determine what to build
+2
+3
+Collect Data
+Clean & Label the Data
+4
+5
+Train your AI Model
+Evaluate & Visualize the Results
+6
+Launch your AI Model
+7
+Monitor your AI Model's Performance
+8
+Demo & Celebrate!
+Day in the Life
+of an AI Bootcamp Student
+Throughout AI Bootcamp you’ll experience a mix of live instruction, track related activities, and collaborative team projects to help you develop and hone your skills with whichever track you decide to choose.
+  All classes are held from 10 AM - 3 PM PST or EST
+(time zone preferences available)
+Program Schedule
+Morning: 10 AM - 12 PM 
+Concepts & Fundamentals Related to Your Track
+Lunch: 12 PM - 1 PM
+Break
+Afternoon: 1 PM - 3 PM 
+Hands-on Technical Work with Your Team
+#comp-ln4sb7bn svg [data-color="1"] {fill: #20BD68;}
+#comp-ln4s1axi svg [data-color="1"] {fill: #20BD68;}
+Our Students Come Out on Top
+Meet Samuel
+From Research Triangle High School to AI Camp, Samuel's journey in AI has been nothing short of extraordinary. As an AI Bootcamp and Guided Internship Alumni, his efforts here has since empowered 20,000 individuals to explore AI. Today, Samuel is diving deeper into engineering at the preistigous Princeton University.
+
+Be part of this exciting journey with AI Camp, where every student's success story begins!
+Rated 4.8/5 Stars
+See More Testimonials
+Learn More
+Our Mission
+Our Blog
+Student Products
+Careers
+Contact Us
+Email: hello@ai-camp.org
+Phone: (650) 436-4477
+
+2627 Hanover Street,
+Palo Alto, CA 94304
+Terms of Service
+Privacy
+Reviews
+Keep up with us!
+Back to Top
+Created with love in California. 
+© 2022 by AI Camp.  

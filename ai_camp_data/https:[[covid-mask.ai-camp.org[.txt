@@ -1,0 +1,62 @@
+Mask  Detector
+AI Mask Detector
+AI technology that detects if people of wearing masks
+Made by 5 passionate high schoolers during C0VID-19
+Try Our Product!
+Our Project
+Overview
+Our AI mask detector was created with the strong influence of the COVID-19 pandemic. Our goal was to create a product that can help  businesses with the new safety guidelines in their stores. Our project can detect whether or not a person is wearing a mask to further help store owners gage how safe it is for them to enter.  An AI machine can prevent further spreading of the coronavirus by ensuring everyone inside a store is wearing a mask and taking proper safety precautions.
+Motive
+Help Stores during the Pandemic
+We understand that small businesses especially have been hard hit from COVID-19. By creating an AI product that detects masks, store owners can be informed of unsanitary circumstances. By ensuring that all customers are wearing masks, workers can stay healthy during COVID-19.
+Ensure the Safety of People
+Wearing masks greatly reduces the spread of COVID-19. By using our product to ensure that all customers are wearing masks as advised, the daily cases can decrease and thus, provide a healthier environment for others.
+Use AI in Real World Scenarios
+We wanted our AI product to create a positive impact on the real world and help our community. COVID-19 is a deadly pandemic that is affecting everyone globally. We decided to base our project on detecting masks in hopes of reducing the cases.
+Have Fun!
+We wanted to choose a topic that we were all passionate about, so that we can enjoy working on it.
+Our Team
+Team Rockfish
+Sarghi Sidhu
+Student at Amador Valley High School
+Sarghi loves to explore new data concepts and create new products using AI. She contributed to this project by helping collect data and generate the front-end of this project.
+Madeleine de Belloy
+Student at the Lycée Français de San Francisco
+ Madeleine likes improving her code. She helped get data and generate the confusion matrix for the project.
+Katie Sun
+Student at Crystal Springs Uplands School
+Katie enjoys learning new concepts at AI Camp. She collected and labeled data, as well as contributing to the front-end. 
+Catherine Hung
+Student at Paly
+Catherine enjoys using AI to create products. She contributed by working on the front-end and helped collect data.
+    Rahul Ganesh
+Student at Wilcox High School
+He loves to learn more about coding and contributed by writing the scripts to get data as well as the back-end of the site.
+Richard Hsu
+Instructor
+Richard is one of our instructors. Previously, he led software engineering teams at the Federal Reserve Bank of San Francisco.  He is a Carnegie Mellon University graduate with a BS in Electrical Computer Engineering and a MS in Software Management.
+Dr. Michael Ke Zhang
+Chief Instructor
+Michael is one of our instructors. Previously he ran data teams at Blend Labs and Grab. He's also a founder and EIR at Fusion Fund. He enjoys teaching and inspiring the next generation of students. He graduated from Caltech with a BS and Stanford with a Ph.D. in Applied Physics.
+Our Project
+Resources
+Google Colabs
+We used Google Colab to learn new concepts and material which we later applied onto our project. This platform also allowed us to write some of the code that is used in our product
+
+.
+Google Colab
+Labelbox
+Labelbox was used to generate the labels and identify the images. We labeled thousands of photos on if the picture included someone wearing a mask or not. 
+
+
+Labelbox
+YOLO
+YOLO is an object detection system which uses a set algorithm to detect objects and identify what they are. It works closely with Labelbox.
+
+
+
+YOLO
+AI Camp
+AI Camp is the basis of this product. Without this camp this product wouldn't exist! With the help of us campers and our instructors, in just 3 weeks we came up with, prepared, and created an AI product in which we are presenting to you! 
+AI Camp
+© 2020 rockfish

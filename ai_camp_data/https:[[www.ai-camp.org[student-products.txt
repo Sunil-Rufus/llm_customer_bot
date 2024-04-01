@@ -1,0 +1,156 @@
+Our Programs
+Student Products
+Why AI Camp
+Login
+Questions? Call us at (650) 436-4477
+Our Students Build Real AI Products That People Use
+Register for AI Courses
+By creating an AI product, our students apply what they learn through first-hand experience of being an engineer, product manager, or data scientist. If you want to learn how to make these products, join us!
+Makes them more competitive academically
+Provides them with the professional skills that enable them to intern at companies
+Gives them insights into their future careers
+Our students don't make PowerPoints.
+ 
+They make
+impressive AI products people actually use.
+
+In just three weeks these students made a face mask detector to help business owners fight the
+Covid-19 Pandemic.
+Catherine H, Katie S, Madeleine B, Rahul G, Sarghi S
+Try it at
+covid-mask.ai-camp.org
+Level 1: Fundamentals in 1 Week
+Jumpstart your future with data by building dashboards and analyzing visualizations.
+Dungeon Crawler Game
+Built By
+Anish, Josephine, Leon, Luke, William
+
+We used AI to create a game where the goal is to fight off monsters and escape from the dungeon.
+
+Try This Product
+Watch Our Product Demo
+Built By
+Data Science Job Outlook Dashboard
+View 1-Week Summer Camp Projects
+Jayden, Lucas, Pierce, Shriya
+
+We created a dashboard to visualize job outlook statistics for various careers in data science.
+
+Try This Product
+Level 2: 3-Week Summer Camp
+Build impressive products for your college portfolio and resume while gaining professional experience.
+Hand Gesture Video Game
+Built By
+Alan, Dale, Gonzalo, Noah, Vincent
+
+We used computer vision to control games through hand motions.
+
+See This Product in Action
+Github Repository
+AI Detects Tumors
+Built By
+Aarush, Enzo, Felix, HaJasper, Malvika, Riley, Samuel
+
+We used data science to predict melanoma tumor sizes.
+
+See This Product in Action
+Github Repository
+Song Lyric Bot
+Built By
+Emilio, Devin H, Greg C, Jennifer G, Leonardo A, Vincent Y
+
+We used natural language processing to create a rap bot.
+
+See This Product in Action
+Github Repository
+View 3-Week Summer Camp Projects
+Guided Internship
+Learn professional practices and skills by delivering high-impact products to real companies.
+Project Firestart
+These students utilized AI to help the environment by tracking the release of methane gas from gas flares.
+AI Summarizes Media
+Built By
+Eiko, Gokul, Kieran, Nicole, Srikar, Emily
+
+We created a web app that automatically generates summarized notes for any audio, video, or text input using cutting-edge language models.
+
+Try This Product
+Github Repository
+Peer Editing and Efficiency Robot
+Built By
+Amogh, Blake, Dylan, Ian, Reign, Vamsee
+
+We utilized GPT-3 to give written feedback and suggestions on product specifications.
+
+Try This Product
+Github Repository
+Team Tomorrow: Our Investment In You
+Launch your professional career with a technical internship designed for young self-starters.  
+Team Tomorrow Website
+Built By
+Bernice, Daniel, Jamie, Kalen, Said, Toryn
+
+We built a dynamic website to showcase our TT developers' projects and portfolios. 
+
+Try This Product
+AI Camp Custom Software
+Built By
+Alexander, Bernice, Jackson, Sricharan, Zachary, and more!
+
+We built a custom, all-in-one course registration, back office, and dashboard system for AI Camp's product operations.
+
+Try This Product
+Get Ahead with Real Work Experience at AI Camp and Beyond.
+Team Tomorrow Spotlight: Rohan Joshi 
+Age: 14
+Title: Machine Learning and Software Engineer
+Not Your Typical Internship...
+"AI Camp offered me the opportunity to work on a mobile app that could reach thousands of people to teach them computer vision. Overall, I learned the value of solving problems in a wide range of areas from education to character recognition in images."
+Rohan automates the communication of instructors, parents, and students using Discord, in addition to building machine learning pipelines for external companies.
+The Real Product is Our Students
+They Know How to Learn as Professionals
+01/
+Learn by working
+02/
+Use Data to Make Decisions
+They Have Impressive Records
+01/
+Create real products
+02/
+Immerse themselves within internships
+They Have Direction for Their Future
+01/
+Have Good Understanding of Various Jobs
+02/
+Understanding Dangers of Student Loans*
+Words From Our Students
+Rated 4.8/5 stars by hundreds of satisfied students
+See More Reviews
+"My team and I created an awesome, interactive, entertaining, and immersive final product, showcasing everything we learned during the camp."
+  - Kalen
+“I absolutely loved this camp - it was awesome getting to interact with team members and my instructor and collaborate to make a product of our choice that could make an impact through multiple aspects.”
+  - Adithya
+"It wasn't just programming and machine learning, there was also teamwork and communication. My team was able to create a product we are proud of!"
+  - Felix
+We Are Only as Great as the Doors We Open.
+Join us, make something cool,
+and be ready for the future.
+Register for AI Courses
+Learn More
+Our Mission
+Our Blog
+Student Products
+Careers
+Contact Us
+Email: hello@ai-camp.org
+Phone: (650) 436-4477
+
+2627 Hanover Street,
+Palo Alto, CA 94304
+Terms of Service
+Privacy
+Reviews
+Keep up with us!
+Back to Top
+Created with love in California. 
+© 2022 by AI Camp.  

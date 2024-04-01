@@ -1,0 +1,141 @@
+<html>
+  <head>
+    <title>Chat Box UI Design</title>
+    <link rel="stylesheet" href="static/styles.css" />
+    <!-- Set up for the Navigation Bar-->
+    <meta charset="utf-8">
+    <meta name = "viewport" content = "width=device-width, initial-scale=1">
+    <title>Navigation Bar</title>
+    <link rel="styles" href="static/styles.css">      
+
+    <!-- Import this CDN to use icons -->
+    <link
+      rel="static/styles.css"
+      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css"
+    />
+
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        var messageContainer = document.getElementById("message-container");
+        messageContainer.scrollTop = messageContainer.scrollHeight;
+      });
+      document.addEventListener("DOMContentLoaded", function () {
+        var userInput = document.getElementById("userInput");
+        var loadingCircle = document.getElementById("loadingCircle");
+        var sendButton = document.getElementById("sendButton");
+
+        userInput.addEventListener("input", function () {
+          if (userInput.value.trim() !== "") {
+            loadingCircle.style.display = "inline-block";
+            sendButton.style.display = "none";
+          } else {
+            loadingCircle.style.display = "none";
+            sendButton.style.display = "inline-block";
+          }
+        });
+        function hideLoadingCircle() {
+          loadingCircle.style.display = "none";
+          sendButton.style.display = "inline-block";
+        }
+      });
+      function toggleLoadingCircle(input) {
+        var loadingCircle = document.getElementById("loading-circle");
+        if (input.value.trim() !== "") {
+          loadingCircle.style.display = "inline-block";
+        } else {
+          loadingCircle.style.display = "none";
+        }
+      }
+    </script>
+
+    
+  </head>
+  
+  <body>
+    <!-- Navigation Bar-->
+    <header>
+      <nav class = "navbar">
+        <div class = "navidv">
+          <div class = "logo">
+            <img src="static/img/favicon_io/android-chrome-512x512.png">
+          </div>
+          <ul>
+            <ul>
+              <a href = "#">Our Programs</a>
+              <a href = "#">Student Products</a>
+              <a href = "#">Why AI Camp</a>
+              <a href = "#">Login</a>
+              <a href = "#">AI-Companion</a>
+            </ul>
+          </ul>
+        </div>
+      </nav>
+    </header>
+
+    <!-- Main container -->
+    <div class="container">
+      <!-- msg-header section starts -->
+      <div class="msg-header">
+        <div class="container1">
+          <img src="static/img/favicon_io/android-chrome-512x512.png" class="msgimg" />
+          <div class="active">
+            <p>AI Companion</p>
+          </div>
+        </div>
+      </div>
+      <!-- msg-header section ends -->
+
+      <!-- Chat inbox  -->
+      <div class="chat-page">
+        <div class="msg-inbox">
+          <div class="chats">
+            <!-- Message container -->
+            <div id="message-container" class="msg-page">
+              {% for entry, is_user in chat_history %}
+                {% if is_user == "True" %}
+                  <!-- User message -->
+                  <div class="outgoing-chats">
+                    <div class="outgoing-msg">
+                      <div class="outgoing-chats-msg">
+                        <p>{{ entry }}</p>
+                      </div>
+                    </div>
+                  </div>
+                {% else %}
+                  <!-- AI response -->
+                  <div class="received-chats">
+                    <div class="received-msg">
+                      <div class="received-msg-inbox">
+                        <p>{{ entry }}</p>
+                      </div>
+                    </div>
+                  </div>
+                {% endif %}
+              {% endfor %}
+            </div>
+          </div>
+        </div>
+
+        <!-- msg-bottom section -->
+        <div class="msg-bottom">
+          <div class="input-group">
+            <form method="post" action="/">
+              <input
+                type="search"
+                class="form-control"
+                name="name"
+                placeholder="Ask me a question..."
+                style="width: 440%;"
+                oninput="toggleLoadingCircle(this)"
+              />
+            </form>
+            <span class="input-group-text send-icon">
+              <i class="bi bi-send"></i>
+            </span>
+            <div class="loading-circle" id="loading-circle"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
